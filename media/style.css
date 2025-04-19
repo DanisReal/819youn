@@ -193,7 +193,7 @@ body {
 .main1 {
     padding-top: calc(var(--nice-padding) + 2rem);
     display:flex;
-    width: 40%;
+    width: 20%;
     align-self: center;
     flex-direction: column;
     align-items: center;
@@ -202,7 +202,7 @@ body {
     background: rgba(0, 0, 0, .5) url('https://i.imgur.com/YyfNgUF.jpeg');
     background-blend-mode: darken;
     background-repeat: no-repeat;
-    background-position: 10% 10%;
+    background-position: 50% 50%;
 }
 
 .main1_logo_a {
